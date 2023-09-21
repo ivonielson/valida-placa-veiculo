@@ -1,8 +1,8 @@
-✨ <h1>Validador de Placas de Veículos</h1> ✨
+ <h1>✨Validador de Placas de Veículos✨</h1> 
 
-Neste repositório temos dois coigos com a mesma finalidade, validação de placa de veiculos, um feito em PHP e outro em JavaScript, onde contem uma função chamada validarPlaca que verifica se uma placa de veículo é válida. A função utiliza expressões regulares para avaliar diferentes padrões de placas, incluindo o formato atual com três letras seguidas de quatro números, bem como o padrão Mercosul para carros e motos.
+Neste repositório temos dois codigos com a mesma finalidade, validação de placa de veiculos, um feito em PHP e outro em JavaScript, onde contem uma função chamada validarPlaca que verifica se uma placa de veículo é válida. A função utiliza expressões regulares para avaliar diferentes padrões de placas, incluindo o formato atual com três letras seguidas de quatro números, bem como o padrão Mercosul para carros e motos.
 
-ℹ️ Para utilizar, basta chamar a função validarPlaca e passar a placa que deseja verificar como argumento.
+Para utilizar, basta chamar a função validarPlaca e passar a placa que deseja verificar como argumento.
 
 🚀 <h2>Exemplos de Uso:</h2>
 
