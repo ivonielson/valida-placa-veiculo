@@ -6,10 +6,10 @@ Neste repositório temos dois coigos com a mesma finalidade, validação de plac
 
 🚀 <h2>Exemplos de Uso:</h2>
 
-<h3>php</h3>
-echo validarPlaca("ABC1234")  . "<br>";  // Placa válida no formato atual
-echo validarPlaca("ABC12356") . "<br>";  // Placa inválida
-echo validarPlaca("ABC1D01")  . "<br>";  // Placa válida (padrão Mercosul - carro)
+<h3>:elephant:php</h3>
+echo validarPlaca("ABC1234");   // Placa válida no formato atual<br>
+echo validarPlaca("ABC12356");  // Placa inválida<br>
+echo validarPlaca("ABC1D01");   // Placa válida (padrão Mercosul - carro)<br>
 
 <h3>JavaScript</h3>
 console.log(validarPlaca("ABC12D5"));    // Placa válida no formato atual<br>
