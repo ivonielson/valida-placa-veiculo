@@ -11,7 +11,7 @@ echo validarPlaca("ABC1234");   // Placa válida no formato atual<br>
 echo validarPlaca("ABC12356");  // Placa inválida<br>
 echo validarPlaca("ABC1D01");   // Placa válida (padrão Mercosul - carro)<br>
 
-<h3>JavaScript</h3>
+<h3>:hammer:JavaScript</h3>
 console.log(validarPlaca("ABC12D5"));    // Placa válida no formato atual<br>
 console.log(validarPlaca("ABC1D15"));    // Placa inválida<br>
 console.log(validarPlaca("OXM1G01"));    // Placa válida (padrão Mercosul - carro)<br>
